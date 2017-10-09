@@ -28,3 +28,25 @@ Software developer (most of the time), #infosec enthusiast, human being, self-ta
 [https://twitter.com/matias_baruch?lang=es](https://twitter.com/matias_baruch?lang=es)
 
 [https://matias.insaurral.de/](https://matias.insaurral.de/ "Blog")
+
+## Oscar Sánchez ##
+CSO & Co-Founder at Toky
+
+Toky es una startup que revoluciona la comunicación de empresas con sus clientes
+
+[https://www.linkedin.com/in/oscarsanchezo/?ppe=1](https://www.linkedin.com/in/oscarsanchezo/?ppe=1)
+
+[https://blog.toky.co/es/author/oscar-sanchez/](https://blog.toky.co/es/author/oscar-sanchez/ "https://blog.toky.co/es/author/oscar-sanchez/")
+
+[https://www.technologyreview.es/tr35paraguayybolivia/1692/oscar-sanchez/](https://www.technologyreview.es/tr35paraguayybolivia/1692/oscar-sanchez/ "https://www.technologyreview.es/tr35paraguayybolivia/1692/oscar-sanchez/")
+
+
+## Carlos Ruiz Diaz  ##
+CEO and Co-Founder
+Toky es una startup que revoluciona la comunicación de empresas con sus clientes
+
+[https://twitter.com/caruizdiaz?lang=es](https://twitter.com/caruizdiaz?lang=es)
+
+[https://www.linkedin.com/in/caruizdiaz/?ppe=1](https://www.linkedin.com/in/caruizdiaz/?ppe=1)
+
+[http://pulsosocial.com/2015/05/21/toky-la-startup-paraguaya-que-reemplaza-los-numeros-telefonicos-por-un-enlace-personal/](http://pulsosocial.com/2015/05/21/toky-la-startup-paraguaya-que-reemplaza-los-numeros-telefonicos-por-un-enlace-personal/)
