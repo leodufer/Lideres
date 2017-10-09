@@ -1,7 +1,7 @@
 # Lideres Tecnológicos/Emprededores - Paraguay #
 Nómina de lideres tecnológicos de la región.
 
-# Contribir a la nómina #
+# Como contribir a la nómina #
 En la issue añadir un mensaje con con esquema propuesto que serán agregados
 
 # Esquema Propuesto #
