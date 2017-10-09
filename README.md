@@ -1,7 +1,7 @@
 # Lideres Tecnológicos/Emprededores - Paraguay #
-Nómina de lideres tecnológicos de la región.
+Nómina de lideres tecnológicos de la región para tener un catalogo de las personas que se destacan dentro del ambito técnologico de nuestro país y que admiramos por su servicio a la comunidad y su emprendimiento.
 
-# Contribir a la nómina #
+# Como contribir a la nómina #
 En esta issue [https://github.com/leodufer/Lideres/issues/1](https://github.com/leodufer/Lideres/issues/1 "#1") añadir un mensaje con con esquema propuesto que serán agregados
 
 # Esquema Propuesto #
