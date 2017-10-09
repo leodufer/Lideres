@@ -21,3 +21,10 @@ Software developer en Simgia http://www.simgia.com/
 Blog [Proyecto BETA](http://proyectosbeta.net/ "Proyecto BETA") En nuestra vida, desde que nacemos todo lo probamos, ensayamos y testeamos; así también erramos, caemos pero por sobre todo aprendemos. Es decir, todo lo que hacemos forma parte de una nueva experiencia, de un PROYECTO. El que siempre exista la posibilidad de mejorarlo es lo que lo convierte en BETA. En este blog queremos compartir contenidos de tipo informático con artículos de programación, software libre y propietario, redes, base de datos, noticias, experiencias, etc… y también de humor. Es un sitio de todos y para todos. Participá! Sos importante
 
 [https://www.facebook.com/jose.gonzalezvonschmeling](https://www.facebook.com/jose.gonzalezvonschmeling)
+
+## Mathias Insaurralde ##
+Software developer (most of the time), #infosec enthusiast, human being, self-taught. 22 years. Speaker en eventos de tecnología, Go Lang evangelist. Colaborador de GDG
+
+[https://twitter.com/matias_baruch?lang=es](https://twitter.com/matias_baruch?lang=es)
+
+[https://matias.insaurral.de/](https://matias.insaurral.de/ "Blog")
