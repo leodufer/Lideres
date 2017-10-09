@@ -2,7 +2,7 @@
 Nómina de lideres tecnológicos de la región.
 
 # Contribir a la nómina #
-En la issue añadir un mensaje con con esquema propuesto que serán agregados
+En esta issue [https://github.com/leodufer/Lideres/issues/1](https://github.com/leodufer/Lideres/issues/1 "#1") añadir un mensaje con con esquema propuesto que serán agregados
 
 # Esquema Propuesto #
     ## Nombre ##
